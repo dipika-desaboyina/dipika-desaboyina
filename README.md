@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @dipika-desaboyina
 - 👀 I’m interested in natural language processing
-- 🌱 I’m currently learning object oriented programming in java
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on language modeling projects
 - 📫 How to reach me - email me at dipikades42@gmail.com
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm ambidextrous
 
 <!---
