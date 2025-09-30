@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dipika-desaboyina
-- 👀 I’m interested in natural language processing
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on language modeling projects
+- 👀 I’m interested in delivering NLP and AI projects end-to-end
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on any project that needs a technically adept PM!
 - 📫 How to reach me - email me at dipikades42@gmail.com
 - ⚡ Fun fact: I'm ambidextrous
 
